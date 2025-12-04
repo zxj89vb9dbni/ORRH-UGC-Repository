@@ -16,6 +16,7 @@ data/avid_map.json
 data/PrivateKey.pem
 data/PrivateKeyBlob.txt
 data/PublicKeyBlob.txt
+assetpacks/
 maps/Base
 redist/
 runtimes/
