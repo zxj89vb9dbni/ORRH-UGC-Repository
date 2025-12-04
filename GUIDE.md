@@ -1,3 +1,5 @@
+Want to port an asset from the modern catalog / create a completely unique hat? Read **this**. (WIP)
+
 # How to Properly Reserve an Asset
 
 When creating an asset, make sure the actual hat RBXM file is the final number. Here's an example of an non existant hat:
