@@ -7,7 +7,7 @@ try{
 	Remove-Item '.\ORRH-UGC-Repository-main\PORTING.md' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\GUIDE.md' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\.gitignore' -Force
-	Remove-Item '.\ORRH-UGC-Repository-main\.github' -Force
+	Remove-Item '.\ORRH-UGC-Repository-main\.github' -Recurse -Force
 	# We don't want to overwrite the DLL file. That must be installed manually y'know. Just in case!
 	# Also, who gives a shit about the github stuff? You'd be git cloning it anyways.
 	# Speaking of github, the way I set up this repo was by "git clone"-ing the repository, then extracting
