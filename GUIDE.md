@@ -1,6 +1,14 @@
-# Basic Asset Additions
+# How to Properly Reserve an Asset
 
-This page is still a WIP. You will have to figure some things out on your own. Good luck!
+When creating an asset, make sure the actual hat RBXM file is the final number. Here's an example of an non existant hat:
+```
+1289 - hat.mesh
+1290 - hat.png
+1291 - hat.rbxm
+```
+This makes it easy to fix merge conflicts, as future contributors can easily add new hat assets. Please make sure to follow this rule for the sake of easy asset additions.
+
+# Basic Asset Additions
 
 Before reserving an asset id, make sure to add "1000000000" to it. For example, 1291 would become 1000001291, not 10000000001291.
 
@@ -20,3 +28,15 @@ Finally, you can add a new asset to the catalog. You can edit "/data/assets.json
     "assetVersion": 1
 }
 ```
+
+# Conclusion
+
+Our example file structure would look something like:
+```
+/data/assets/accessory/1000001289.mesh
+/data/assets/accessory/1000001290.png
+/data/assets/accessory/1000001291.rbxm
+
+/data/thumbnails/1000001291.png
+```
+\+ modifications to assets.json
