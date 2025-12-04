@@ -9,6 +9,10 @@ Hello, this is a repository containing patches and UGC content for ORRH. Contrib
 
 The patches require you to also install the [ORRH Base Assets](https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing) asset pack, as the modified DLL code breaks the catalog by default. The "base assets" pack includes all assets that ORRH requires, including Catalog Items, Decals, Meshes, and Audios.
 
+Installation is simple. Just click "Download ZIP" from the Code dropdown, then drag the files into the top level directory of your ORRH installation. Make sure to replace any files required, including the DLL file.
+
+The DLL file has been modified to not append `&assetversionid=` to your character appearance, allowing you to use custom catalog assets, and also contains the patches created by trubo to fix Assetdelivery v2 functionality.
+
 # Contribution Guidelines
 
 All assets that are contributed to this repository **must** follow the following guidelines:
