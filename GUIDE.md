@@ -1,6 +1,6 @@
 # Setting Up a Developer Environment
 
-## `Requirements`
+## `Requirements:`
 - `Git for Windows`
 - `VSCodium` (But any editor works, this is just the one I use.)
 - `Empty ORRH Installation`
