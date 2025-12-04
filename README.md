@@ -23,7 +23,7 @@ All assets that are contributed to this repository **must** follow the following
 4. Assets must not contain any form of scripting or malicious code.
 5. Assets must work in every client provided by the launcher. _Obviously_, Shirts and Pants wont work in 2007. But, a Hat should work fine, **with no crashes** in a 2010 client.
 
-Not following these guidelines will result in you being banned from contributing to this repository.
+Intentionally not following these guidelines will result in you being banned from contributing to this repository. Otherwise, your PR will just be closed.
 
 Stuck? Read [this guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/GUIDE.md) on how to add each asset type.
 
