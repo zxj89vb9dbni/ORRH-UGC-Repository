@@ -49027,6 +49027,38 @@
             "creator": "kuro",
             "created": "2025-07-13T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000035": {
+            "name": "Silly Fanged Void Eye Face",
+            "description": "Thank you for shopping ch!bi",
+            "type": "Face",
+            "creator": "CH!BI",
+            "created": "2025-10-19T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000036": {
+            "name": "Moth Wings Monochrome",
+            "description": "These wings will fly you anywhere; automatically to lamps though.",
+            "type": "Hat",
+            "creator": "WhoToTrus",
+            "created": "2022-11-30T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000037": {
+            "name": "Moth Ears Monochrome",
+            "description": "Don't fly to the lamp!",
+            "type": "Hat",
+            "creator": "WhoToTrus",
+            "created": "2022-11-30T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000038": {
+            "name": "hair test 2",
+            "description": "please oh please work this time",
+            "type": "Hat",
+            "creator": "creditctrls",
+            "created": "2025-12-03T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
